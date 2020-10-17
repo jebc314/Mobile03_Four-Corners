@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Four Corners</string>
+    <string name="top_left_button_value">0</string>
+    <string name="top_right_button_value">0</string>
+    <string name="bottom_left_button_value">0</string>
+    <string name="bottom_right_button_value">0</string>
+    <string name="alphabet">ABCDEFGHIJKLMNOPQRSTUVWYZ</string>
+    <string name="empty"></string>
+    <string name="rating_hint">Rating\'s description</string>
+    <string name="submit_rating_value">Submit Rating</string>
+    <string-array name="ratings">
+        <item>Horrible</item>
+        <item>Bad</item>
+        <item>Not Great</item>
+        <item>Edible</item>
+        <item>OK</item>
+        <item>Good</item>
+        <item>Great</item>
+        <item>Amazing</item>
+        <item>Oui oUi. Hun hUN. BAGUETTE</item>
+    </string-array>
+</resources>
